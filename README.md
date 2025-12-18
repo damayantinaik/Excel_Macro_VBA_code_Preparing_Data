@@ -1,7 +1,7 @@
 # Excel VBA Code for Data Preparation 
 
 ## Introduction:
-I have raw data in an excel workbook, without header and formatting. The workbook has four worksheets:
+For this project, I have raw data in an excel workbook, without header and formatting. The workbook has four worksheets:
 1. East Record
 2. West Records
 3. North Records
