@@ -18,5 +18,5 @@ Prepare the data creating macros with VBA code. The code will do the following t
 ## Solution code:
   
 ![Inserting header VBA code](https://github.com/damayantinaik/Excel_VBA_code_Preparing_Data/blob/main/Inserting_header_VBA_code.png)
-![Formatting headers and content VBA code]()
+![Formatting headers and content VBA code](https://github.com/damayantinaik/Excel_VBA_code_Preparing_Data/blob/main/Formatting_headers_and_content_VBA_code.png)
 ![Looping to automate across all worksheets VBA code]()
